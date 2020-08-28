@@ -27,3 +27,6 @@ Hex: `0-9` and `A-F`
 | D  | 13  |   
 | E  | 14  |  
 | F  | 15  |  
+
+## IP Calculator:
+* [ipcalc](http://jodies.de/ipcalc) takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
