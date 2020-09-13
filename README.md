@@ -30,3 +30,18 @@ Hex: `0-9` and `A-F`
 
 ## IP Calculator:
 * [ipcalc](http://jodies.de/ipcalc) takes an IP address and netmask and calculates the resulting broadcast, network, Cisco wildcard mask, and host range.
+
+## Common Network Hardware
+Network Interface Card (NIC):
+* Installed in each PC, server, and device
+* Connects the computer to the network
+
+Switch:
+* Forwards traffic to destination hardware address
+* Connects PCs, servers, and so on together
+
+Router:
+* Forwards traffic to its destination IP address
+* Connects switches together
+
+## The OSI Model (Stack)
