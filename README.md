@@ -45,3 +45,47 @@ Router:
 * Connects switches together
 
 ## The OSI Model (Stack)
+Application: Network process to application
+  * DNS
+  * WWW/HTP
+  * EMAIL/POP
+  * SMTP
+  * Telnet
+  * FTP
+  
+Presentation: Data representation and encryption
+  * HTML
+  * DOC
+  * JPEG
+  * mp3
+
+Session: Interhost communication
+
+Transport: End-to-end connections and reliability
+  * TCP
+  * UDP
+  * SCPT
+  * SSL/TLS
+
+Network: Path determination and logical addressing
+  * IP
+  * ARP
+  * IPsec
+  * ICMP
+  * OSPF
+
+Data Link: Physical addressing
+  * MAC
+
+Physical: Media, signal, and binary transmission
+
+## IPv4 Header
+**IP Version, 4 Bits:** Determines the version of the IP protocol
+
+**Protocol, 8 Bits:** Identifies the encapsulated protocol
+
+**Time To Live (TTL), 8 Bits:** Number of hops a packet is allowed to take before it reaches its destination
+
+**Fragmentation, 16 Bits (13 Bits Fragment Offset and 3 Bits for Flags):** Used to fragment the packet or break it up into smaller individual packets
+
+**Source Address and Destination Address, 32 Bits Each:** Source and destination systems 
