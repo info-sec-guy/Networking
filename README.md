@@ -89,3 +89,13 @@ Physical: Media, signal, and binary transmission
 **Fragmentation, 16 Bits (13 Bits Fragment Offset and 3 Bits for Flags):** Used to fragment the packet or break it up into smaller individual packets
 
 **Source Address and Destination Address, 32 Bits Each:** Source and destination systems 
+
+
+## IPv4 vs. IPv6
+
+|  IPv4                                 | IPv6                                |   
+|------------------------------------- |--------------------------------------|
+| 32-bit address                       | 128-bit address                      |   
+| No Authentication                    | Provides authentication of endpoints |  
+| Encryption provided by applications  | Support for encryption in protocol   |  
+ 
