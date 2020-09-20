@@ -47,7 +47,7 @@ Router:
 ## The OSI Model (Stack)
 Application: Network process to application
   * DNS
-  * WWW/HTP
+  * WWW/HTTP
   * EMAIL/POP
   * SMTP
   * Telnet
@@ -57,7 +57,7 @@ Presentation: Data representation and encryption
   * HTML
   * DOC
   * JPEG
-  * mp3
+  * MP3
 
 Session: Interhost communication
 
