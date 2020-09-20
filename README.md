@@ -64,7 +64,6 @@ Session: Interhost communication
 Transport: End-to-end connections and reliability
   * TCP
   * UDP
-  * SCPT
   * SSL/TLS
 
 Network: Path determination and logical addressing
