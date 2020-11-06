@@ -122,5 +122,4 @@ Physical: Media, signal, and binary transmission
 **Source Address and Destination Address, 32 Bits Each:** Source and destination systems 
 
 
-## IPv4 vs. IPv6
 
